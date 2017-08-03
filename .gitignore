@@ -1,0 +1,6 @@
+
+/.idea
+/.git
+*.phar
+/composer.phar
+/tests/

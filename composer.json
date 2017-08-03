@@ -1,0 +1,33 @@
+{
+  "name": "dreboard/myapi_analytics",
+  "description": "My API Google Analytics",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andre Board",
+      "email": "dre.board@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "dreboard/myapi_analytics",
+        "version": "dev-master",
+        "source": {
+          "url": "https://github.com/dreboard/myapi_analytics.git",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0.0",
+    "slim/slim": "^3.7"
+  },
+  "autoload": {
+    "psr-4": { "MyApiCore\\System\\": ["src/classes"] }
+  }
+}
