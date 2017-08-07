@@ -4,3 +4,5 @@
 *.phar
 /composer.phar
 /tests/
+/src/classes/GoogleAnalytics_test.php
+/src/classes/GoogleAnalytics2.php
