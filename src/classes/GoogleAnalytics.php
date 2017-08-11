@@ -104,6 +104,7 @@ class GoogleAnalytics {
 			$this->create_gif();
 		return $this->remote_call();
 	}
+
 	/**
 	 * Use WP's HTTP class or CURL or fopen
 	 * @return void
