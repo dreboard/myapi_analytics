@@ -22,12 +22,6 @@
       }
     }
   ],
-  "minimum-stability": "dev",
-  "require": {
-    "akrabat/rka-ip-address-middleware": "^0.5.0",
-    "php": ">=7.0.0",
-    "slim/slim": "^3.7"
-  },
   "autoload": {
     "psr-4": { "MyApiCore\\System\\": ["src/classes"] }
   }
