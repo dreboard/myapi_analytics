@@ -13,10 +13,11 @@
       "type": "package",
       "package": {
         "name": "dreboard/myapi-analytics",
-        "version": "v1.0.3",
+        "version": "master",
         "source": {
           "url": "https://github.com/dreboard/myapi_analytics.git",
-          "type": "git"
+          "type": "git",
+          "reference": "master"
         }
       }
     }
