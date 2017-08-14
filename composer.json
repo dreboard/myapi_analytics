@@ -1,5 +1,5 @@
 {
-  "name": "dreboard/myapi_analytics",
+  "name": "dreboard/myapi-analytics",
   "description": "My API Google Analytics",
   "license": "MIT",
   "authors": [
@@ -12,7 +12,7 @@
     {
       "type": "package",
       "package": {
-        "name": "dreboard/myapi_analytics",
+        "name": "dreboard/myapi-analytics",
         "version": "dev-master",
         "source": {
           "url": "https://github.com/dreboard/myapi_analytics.git",
